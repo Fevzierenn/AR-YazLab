@@ -1,6 +1,6 @@
 # AR-YazLab
 Yazilim Gelistirme Lab odevi
-# SpringBoot_rest_crud_-Service
+
 # Proje İsmi
 
 QR kod tabanlı Acil durum ve Hatalı Park
